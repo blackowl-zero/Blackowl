@@ -1,10 +1,11 @@
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=mr_fotis&fontSize=70&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Linux%20%E2%80%A2%20Python%20%E2%80%A2%20Bash&descAlignY=55&descSize=20" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=%F0%9F%90%A7+Just+a+Linux+coder;%F0%9F%90%8D+Python+%26+Bash+scripting;%F0%9F%8C%90+HTML+%26+CSS;%E2%9A%A1+Terminal+is+my+home)](https://github.com/root1307)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=%F0%9F%90%A7+Just+a+Linux+coder;%F0%9F%90%8D+Python+%26+Bash+scripting;%F0%9F%8C%90+HTML+%26+CSS;%E2%9A%A1+Terminal+is+my+home)](https://github.com/blackowl-zero)
 
-<img src="https://komarev.com/ghpvc/?username=root1307&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=blackowl-zero&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
@@ -52,12 +53,12 @@ motto: "If it can be automated, it will be automated."
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=root1307&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" height="170" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=root1307&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff" height="170" alt="Top languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=blackowl-zero&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" height="170" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackowl-zero&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff" height="170" alt="Top languages"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=root1307&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff" alt="GitHub streak"/>
+<img src="https://streak-stats.demolab.com?user=blackowl-zero&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff" alt="GitHub streak"/>
 
 </div>
 
@@ -76,7 +77,7 @@ motto: "If it can be automated, it will be automated."
 
 ## 🤝 Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-root1307-181717?style=for-the-badge&logo=github)](https://github.com/root1307)
+[![GitHub](https://img.shields.io/badge/GitHub-blackowl--zero-181717?style=for-the-badge&logo=github)](https://github.com/blackowl-zero)
 [![Email](https://img.shields.io/badge/Email-Say%20hi!-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fotiskavvouras@gmail.com)
 
 <br/>
